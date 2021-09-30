@@ -17,3 +17,5 @@ OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE S
 
 Neste trabalho foi desenvolvido um suporte metálico com elevada resistência mecânica para o controle de uma válvula de 3 vias hospitalar, diminuindo a quantidade de
 componentes frágeis do sistema, e propiciando apenas troca da válvula ou o motor aumentando facilitando o uso contínuo do comutador.
+
+[servomotor.pdf](https://github.com/jpassaretti/servovalve/files/7260081/servomotor.pdf)
