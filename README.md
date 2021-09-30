@@ -15,3 +15,5 @@ OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE S
 
 ![photo_2021-09-29_12-18-50](https://user-images.githubusercontent.com/9045259/135469156-9d54e16d-bdbd-4eab-8c6f-9e123819fd82.jpg)
 
+Neste trabalho foi desenvolvido um suporte metálico com elevada resistência mecânica para o controle de uma válvula de 3 vias hospitalar, diminuindo a quantidade de
+componentes frágeis do sistema, e propiciando apenas troca da válvula ou o motor aumentando facilitando o uso contínuo do comutador.
